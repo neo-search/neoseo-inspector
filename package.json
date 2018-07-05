@@ -1,0 +1,26 @@
+{
+  "name": "neoseo-inspector",
+  "version": "0.0.1",
+  "description": "neoSEO Inspector - Spider Tool and Website Crawler",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo-search/neoseo-inspector.git"
+  },
+  "keywords": [
+    "Spider",
+    "Website",
+    "Crawler",
+    "Opensource",
+    "SEO"
+  ],
+  "author": "neoSearch UG (haftungsbeschränkt), urteile-gesetze.de",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neo-search/neoseo-inspector/issues"
+  },
+  "homepage": "https://github.com/neo-search/neoseo-inspector#readme"
+}
